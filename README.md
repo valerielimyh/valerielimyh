@@ -3,7 +3,7 @@
 I'm a Data Scientist at Dell Technologies where I build practical Machine Learning systems that serve customers. I also...
 
 - 📝 Share the Machine Learning products I built on [my Medium website](medium.com/@valeriemlimyh)
-- 📝 Co-develop [agarationchef](https://www.agarationchef.com/) to share the joy of cooking and baking with the foodie community
+- 📝 Co-develop [agarationchef](https://www.instagram.com/agarationchef/) to share the joy of cooking and baking with the foodie community
 
 
 ### 📝 Recent Writing
