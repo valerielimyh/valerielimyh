@@ -17,6 +17,7 @@ I'm a Data Scientist at Dell Technologies where I build practical Machine Learni
 View the archives on my [Medium](medium.com/@valeriemlimyh).
 
 ### 💻 Recent Side Projects
+- [Developed and tested containerized a ML web service using FastAPI and Pytest](https://github.com/valerielimyh/fastapi_ml_pytest)
 - [End to end implementation of a Multi Class image classification app](https://github.com/valerielimyh/ml_deploy_aws): Dockerized and deployed an app that is trained on ResNet50 on AWS and used Jenkins to facilitate CICD 
 - [Use Google Cloud Platform to perform data analytics and build ML systems](https://github.com/valerielimyh/qwiklab)
 - [Leverage anomaly detection algos to detect fraudulent transactions](https://github.com/valerielimyh/Anomaly_detection)
