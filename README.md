@@ -7,6 +7,7 @@ I'm a Data Scientist at Dell Technologies where I build practical Machine Learni
 
 
 ### 📝 Recent Writing
+- [MLOps - Integrate DevOps in ML systems](https://valerielimyh.medium.com/mlops-integrate-devops-in-ml-systems-d44d954de876)
 - [My career transition from a Data Analyst to Data Scientist](https://towardsdatascience.com/my-career-transition-from-a-data-analyst-to-data-scientist-12f79931d2fc)
 - [A beginner’s friendly walkthrough of the current SOTA NLP model](https://medium.com/analytics-vidhya/to-be-rt-or-not-to-be-rt-7b7b1f008d37)
 - [Reaching out to underserved areas in Chicago to increase business growth and profitability for taxi companies](https://medium.com/@valerielimyh/reaching-out-to-underserved-areas-in-chicago-to-increase-business-growth-and-profitability-for-4a0ca761995d)
