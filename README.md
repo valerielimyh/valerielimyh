@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Valerie 
 
-I'm a Data Scientist at Dell Technologies where I build practical Machine Learning systems that serve customers. I also...
+I'm a Data Scientist at OCBC AI Lab where I build practical Machine Learning systems that serve customers and bring business value. I also...
 
 - 📝 Share the Machine Learning products I built on [my Medium website](medium.com/@valeriemlimyh)
 - 📝 Co-develop [agarationchef](https://www.instagram.com/agarationchef/) to share the joy of cooking and baking with the foodie community
